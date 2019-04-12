@@ -4,4 +4,5 @@
  */
 public class xixi {
     private int id;
+    private int g;
 }
